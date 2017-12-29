@@ -1,3 +1,3 @@
 'use strict';
 
-const
+require('./lib/server').start();
